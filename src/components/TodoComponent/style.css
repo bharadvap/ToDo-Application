@@ -1,0 +1,15 @@
+.green-color {
+  color: #68ba86;
+}
+
+.todo-content {
+  box-shadow: 0px 2px 3px 2px #ccc;
+}
+.todo-actions img {
+  width: 12px;
+  margin-left: 10px;
+  cursor: pointer;
+}
+.error {
+  color: red;
+}
